@@ -1,4 +1,4 @@
-# 📝 Análise de Dados Ionosféricos - SJC, Araguatins e Jataí
+# 📝 Programa Linha de Base Sq
 
 Este projeto é um script MATLAB para processamento e análise de dados ionosféricos reduzidos e tratados das estações de São José dos Campos (SP), Araguatins (TO) e Jataí (GO). O objetivo é consolidar os dados de múltiplos arquivos, calcular médias e desvios dos parâmetros **foF2**, **h'F** e **hmF2**, e gerar gráficos com as séries temporais dessas variáveis.
 
